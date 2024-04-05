@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obvredwolf&label=Profile%20views&color=0e75b6&style=flat" alt="obvredwolf" /> </p>
 
-- 🔭 I’m currently working on [Eldritch](https://github.com/eldritch-theme/eldritch)
+- 🔭 I’m currently working on [Eldritch](https://github.com/eldritch-theme/eldritch) and [Spicetify Themes](https://github.com/spicetify/spicetify-themes).
 
 - 🌱 I’m currently learning programming in general.
 
-- ⚡ Fun fact, I have an obsession with theming
+- ⚡ Fun fact, I have an obsession with theming.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
