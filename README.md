@@ -15,5 +15,5 @@
 </div>
 
 <div align="center">
-	<img src="https://spotify-recently-played-readme.vercel.app/api?user=31465aqhhzu73iruug7zt7xdbuwu&width=400"/></a>
+	<a href="https://open.spotify.com/user/31465aqhhzu73iruug7zt7xdbuwu"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31465aqhhzu73iruug7zt7xdbuwu&width=400"/></a>
 </div>
